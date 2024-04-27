@@ -1,0 +1,15 @@
+C:\Users\malik\source\repos\stormy\bin\Debug\net7.0\stormy.exe
+C:\Users\malik\source\repos\stormy\bin\Debug\net7.0\stormy.deps.json
+C:\Users\malik\source\repos\stormy\bin\Debug\net7.0\stormy.runtimeconfig.json
+C:\Users\malik\source\repos\stormy\bin\Debug\net7.0\stormy.dll
+C:\Users\malik\source\repos\stormy\bin\Debug\net7.0\stormy.pdb
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\stormy.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\stormy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\stormy.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\stormy.AssemblyInfo.cs
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\stormy.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\stormy.dll
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\refint\stormy.dll
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\stormy.pdb
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\stormy.genruntimeconfig.cache
+C:\Users\malik\source\repos\stormy\obj\Debug\net7.0\ref\stormy.dll

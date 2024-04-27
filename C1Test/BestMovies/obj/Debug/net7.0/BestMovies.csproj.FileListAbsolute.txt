@@ -1,0 +1,15 @@
+C:\Users\malik\source\repos\C1Test\BestMovies\bin\Debug\net7.0\BestMovies.exe
+C:\Users\malik\source\repos\C1Test\BestMovies\bin\Debug\net7.0\BestMovies.deps.json
+C:\Users\malik\source\repos\C1Test\BestMovies\bin\Debug\net7.0\BestMovies.runtimeconfig.json
+C:\Users\malik\source\repos\C1Test\BestMovies\bin\Debug\net7.0\BestMovies.dll
+C:\Users\malik\source\repos\C1Test\BestMovies\bin\Debug\net7.0\BestMovies.pdb
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\BestMovies.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\BestMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\BestMovies.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\BestMovies.AssemblyInfo.cs
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\BestMovies.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\BestMovies.dll
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\refint\BestMovies.dll
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\BestMovies.pdb
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\BestMovies.genruntimeconfig.cache
+C:\Users\malik\source\repos\C1Test\BestMovies\obj\Debug\net7.0\ref\BestMovies.dll

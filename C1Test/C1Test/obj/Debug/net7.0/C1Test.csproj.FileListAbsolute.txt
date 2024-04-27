@@ -1,0 +1,15 @@
+C:\Users\malik\source\repos\C1Test\C1Test\bin\Debug\net7.0\C1Test.exe
+C:\Users\malik\source\repos\C1Test\C1Test\bin\Debug\net7.0\C1Test.deps.json
+C:\Users\malik\source\repos\C1Test\C1Test\bin\Debug\net7.0\C1Test.runtimeconfig.json
+C:\Users\malik\source\repos\C1Test\C1Test\bin\Debug\net7.0\C1Test.dll
+C:\Users\malik\source\repos\C1Test\C1Test\bin\Debug\net7.0\C1Test.pdb
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\C1Test.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\C1Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\C1Test.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\C1Test.AssemblyInfo.cs
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\C1Test.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\C1Test.dll
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\refint\C1Test.dll
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\C1Test.pdb
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\C1Test.genruntimeconfig.cache
+C:\Users\malik\source\repos\C1Test\C1Test\obj\Debug\net7.0\ref\C1Test.dll

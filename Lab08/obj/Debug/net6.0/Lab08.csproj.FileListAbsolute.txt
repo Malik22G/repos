@@ -1,0 +1,17 @@
+C:\Users\malik\source\repos\Lab08\bin\Debug\net6.0\Lab08.exe
+C:\Users\malik\source\repos\Lab08\bin\Debug\net6.0\Lab08.deps.json
+C:\Users\malik\source\repos\Lab08\bin\Debug\net6.0\Lab08.runtimeconfig.json
+C:\Users\malik\source\repos\Lab08\bin\Debug\net6.0\Lab08.dll
+C:\Users\malik\source\repos\Lab08\bin\Debug\net6.0\Lab08.pdb
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfo.cs
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.dll
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\refint\Lab08.dll
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.pdb
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.genruntimeconfig.cache
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\ref\Lab08.dll
+C:\Users\malik\source\repos\Lab08\bin\Debug\net6.0\TextFile.dll
+C:\Users\malik\source\repos\Lab08\obj\Debug\net6.0\Lab08.csproj.CopyComplete

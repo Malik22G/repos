@@ -1,0 +1,17 @@
+C:\Users\malik\source\repos\PracticeMidTerm\bin\Debug\net6.0\PracticeMidTerm.exe
+C:\Users\malik\source\repos\PracticeMidTerm\bin\Debug\net6.0\PracticeMidTerm.deps.json
+C:\Users\malik\source\repos\PracticeMidTerm\bin\Debug\net6.0\PracticeMidTerm.runtimeconfig.json
+C:\Users\malik\source\repos\PracticeMidTerm\bin\Debug\net6.0\PracticeMidTerm.dll
+C:\Users\malik\source\repos\PracticeMidTerm\bin\Debug\net6.0\PracticeMidTerm.pdb
+C:\Users\malik\source\repos\PracticeMidTerm\bin\Debug\net6.0\TextFile.dll
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.AssemblyInfo.cs
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.csproj.CopyComplete
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.dll
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\refint\PracticeMidTerm.dll
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.pdb
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\PracticeMidTerm.genruntimeconfig.cache
+C:\Users\malik\source\repos\PracticeMidTerm\obj\Debug\net6.0\ref\PracticeMidTerm.dll

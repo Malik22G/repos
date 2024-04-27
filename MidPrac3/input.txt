@@ -1,0 +1,6 @@
+Savadori 1 1:14.59
+Miller 1 1:14.77
+Miller 2 1:14.59
+Savadori 2 1:14.77
+Savadori 3 1:14.59
+Miller 3 1:14.77

@@ -1,0 +1,15 @@
+C:\Users\malik\source\repos\Polygon\bin\Debug\net6.0\Polygon.exe
+C:\Users\malik\source\repos\Polygon\bin\Debug\net6.0\Polygon.deps.json
+C:\Users\malik\source\repos\Polygon\bin\Debug\net6.0\Polygon.runtimeconfig.json
+C:\Users\malik\source\repos\Polygon\bin\Debug\net6.0\Polygon.dll
+C:\Users\malik\source\repos\Polygon\bin\Debug\net6.0\Polygon.pdb
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\Polygon.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\Polygon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\Polygon.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\Polygon.AssemblyInfo.cs
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\Polygon.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\Polygon.dll
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\refint\Polygon.dll
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\Polygon.pdb
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\Polygon.genruntimeconfig.cache
+C:\Users\malik\source\repos\Polygon\obj\Debug\net6.0\ref\Polygon.dll

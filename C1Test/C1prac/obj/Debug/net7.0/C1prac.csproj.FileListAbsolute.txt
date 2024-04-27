@@ -1,0 +1,15 @@
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\C1prac.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\C1prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\C1prac.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\C1prac.AssemblyInfo.cs
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\C1prac.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\C1Test\C1prac\bin\Debug\net7.0\C1prac.exe
+C:\Users\malik\source\repos\C1Test\C1prac\bin\Debug\net7.0\C1prac.deps.json
+C:\Users\malik\source\repos\C1Test\C1prac\bin\Debug\net7.0\C1prac.runtimeconfig.json
+C:\Users\malik\source\repos\C1Test\C1prac\bin\Debug\net7.0\C1prac.dll
+C:\Users\malik\source\repos\C1Test\C1prac\bin\Debug\net7.0\C1prac.pdb
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\C1prac.dll
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\refint\C1prac.dll
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\C1prac.pdb
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\C1prac.genruntimeconfig.cache
+C:\Users\malik\source\repos\C1Test\C1prac\obj\Debug\net7.0\ref\C1prac.dll

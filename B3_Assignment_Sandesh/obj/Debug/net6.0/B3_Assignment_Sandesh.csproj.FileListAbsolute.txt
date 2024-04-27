@@ -1,0 +1,15 @@
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\B3_Assignment_Sandesh.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\B3_Assignment_Sandesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\B3_Assignment_Sandesh.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\B3_Assignment_Sandesh.AssemblyInfo.cs
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\B3_Assignment_Sandesh.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\bin\Debug\net6.0\B3_Assignment_Sandesh.exe
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\bin\Debug\net6.0\B3_Assignment_Sandesh.deps.json
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\bin\Debug\net6.0\B3_Assignment_Sandesh.runtimeconfig.json
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\bin\Debug\net6.0\B3_Assignment_Sandesh.dll
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\bin\Debug\net6.0\B3_Assignment_Sandesh.pdb
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\B3_Assignment_Sandesh.dll
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\refint\B3_Assignment_Sandesh.dll
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\B3_Assignment_Sandesh.pdb
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\B3_Assignment_Sandesh.genruntimeconfig.cache
+C:\Users\malik\source\repos\B3_Assignment_Sandesh\obj\Debug\net6.0\ref\B3_Assignment_Sandesh.dll

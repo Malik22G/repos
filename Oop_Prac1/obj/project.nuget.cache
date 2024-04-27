@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YEd6rdyTHhKCGIrOeaGCJJifBEVIGUYTlWAko6mYONy6liObrJDb46fY+7HizVIfOnGxXTFrLg8RXVTkqFO0sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malik\\source\\repos\\Oop_Prac1\\Oop_Prac1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
