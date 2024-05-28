@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zKpk2kvQnI278aMZXrtHugO4fm+C/WbAFB9PEEiLw8Y9KGb7Lr1SfRQpis08bSwfZoUVJWkfz7/aNaFV5j7ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malik\\source\\repos\\Tourist\\Tourist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

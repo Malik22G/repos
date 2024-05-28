@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GSsFaqjGcph2pJRMWyblX9g78QDzgzX23Eil3JSppxc1bVXZmba4pBJuzHol4HqjggG7gpUkmY1UWN90nAgQ/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malik\\source\\repos\\Assign2\\Assign2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

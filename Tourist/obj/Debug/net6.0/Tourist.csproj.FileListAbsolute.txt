@@ -1,0 +1,17 @@
+C:\Users\malik\source\repos\Tourist\bin\Debug\net6.0\Tourist.exe
+C:\Users\malik\source\repos\Tourist\bin\Debug\net6.0\Tourist.deps.json
+C:\Users\malik\source\repos\Tourist\bin\Debug\net6.0\Tourist.runtimeconfig.json
+C:\Users\malik\source\repos\Tourist\bin\Debug\net6.0\Tourist.dll
+C:\Users\malik\source\repos\Tourist\bin\Debug\net6.0\Tourist.pdb
+C:\Users\malik\source\repos\Tourist\bin\Debug\net6.0\TextFile.dll
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.AssemblyInfo.cs
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.csproj.CopyComplete
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.dll
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\refint\Tourist.dll
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.pdb
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\Tourist.genruntimeconfig.cache
+C:\Users\malik\source\repos\Tourist\obj\Debug\net6.0\ref\Tourist.dll
